@@ -9,3 +9,7 @@
 4. Model_dataset_2_nested_hyperparameter - Build a XGBoost bodel
 
 5. Tanimoto_similarity - Analyze the outcomes with finerprint similarity scores and rejections
+
+6. new_list_2.csv - 
+
+7. compound_rejections.csv - 
