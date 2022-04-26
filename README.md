@@ -10,6 +10,6 @@
 
 5. Tanimoto_similarity - Analyze the outcomes with finerprint similarity scores and rejections
 
-6. new_list_2.csv - 
+6. new_list_2.csv - SMILES of compounds having rejection data
 
-7. compound_rejections.csv - 
+7. compound_rejections.csv - rejection data with membrane properties, compound properties, and operating conditions
