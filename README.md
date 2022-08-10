@@ -12,4 +12,6 @@
 
 6. new_list_2.csv - SMILES of compounds having rejection data
 
-7. compound_rejections.csv - rejection data with membrane properties, compound properties, and operating conditions
+7. compound_rejections_3.csv - rejection data with membrane properties, compound properties, and operating conditions
+
+8. calculation_CPSA - calculating molecular descriptors such as Van Der Waals Volume and Partial Surface charge
