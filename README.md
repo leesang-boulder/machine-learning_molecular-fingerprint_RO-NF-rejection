@@ -25,7 +25,7 @@ Draw_molecule - Draw molecular fragments corresponding to fingerprint feature nu
 
 MF_generation - Generate different fingerprints based on SMILES
 
-Model_dataset - Build a XGBoost bodel (different versions attached here)
+Model_Development - Train a model and evaluate the performance 
 
 Tanimoto_similarity - Analyze the outcomes with finerprint similarity scores and rejections
 
